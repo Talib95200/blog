@@ -11,7 +11,7 @@ await connectDB()
 
 // Allowed origins
 const allowedOrigins = [
-  'http://localhost:5173' // production frontend
+  'https://blog-eight-bay-45.vercel.app' // production frontend
 ]
 
 // Middlewares
